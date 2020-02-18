@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\GuillBot\GuillBot\bin\Debug\netcoreapp2.0\SystemLang\alerts.json
+C:\Users\Tom\source\repos\GuillBot\GuillBot\bin\Debug\netcoreapp2.0\GuillBot.deps.json
+C:\Users\Tom\source\repos\GuillBot\GuillBot\bin\Debug\netcoreapp2.0\GuillBot.runtimeconfig.json
+C:\Users\Tom\source\repos\GuillBot\GuillBot\bin\Debug\netcoreapp2.0\GuillBot.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\GuillBot\GuillBot\bin\Debug\netcoreapp2.0\GuillBot.dll
+C:\Users\Tom\source\repos\GuillBot\GuillBot\bin\Debug\netcoreapp2.0\GuillBot.pdb
+C:\Users\Tom\source\repos\GuillBot\GuillBot\obj\Debug\netcoreapp2.0\GuillBot.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\GuillBot\GuillBot\obj\Debug\netcoreapp2.0\GuillBot.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\GuillBot\GuillBot\obj\Debug\netcoreapp2.0\GuillBot.AssemblyInfo.cs
+C:\Users\Tom\source\repos\GuillBot\GuillBot\obj\Debug\netcoreapp2.0\GuillBot.dll
+C:\Users\Tom\source\repos\GuillBot\GuillBot\obj\Debug\netcoreapp2.0\GuillBot.pdb
