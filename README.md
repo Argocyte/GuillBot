@@ -7,3 +7,6 @@ The default command prefix (e.g !Help) is !, this can also be changed in the con
 To make a bot account token, go here: https://discordapp.com/developers/applications
 
 This bot uses RealmEyeSharp, a repository which I contributed to during the development of this bot. I couldn't have made it without the invaluable contribution of TheNorthJyde from his initial repository.
+
+
+I am no longer working on this bot or use it.
